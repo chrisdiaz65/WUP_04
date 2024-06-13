@@ -73,4 +73,7 @@ The Highschool and LT highschool are different from the gradute school, nothing 
 
 # Discussion and Conclusion
 
+After getting the box plot, there still wasnt enough information to tell a difference, so we changed the default .95 to .98 which shows that both Junior collage and high school were not different at the 98%. The Default 95% would have told us that it was different.
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
