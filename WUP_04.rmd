@@ -48,6 +48,11 @@ Looking at the graph above, we can see that Bachelor's and junior collage were r
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(WORDSUM~DEGREE,data=mydata)
+```
+the numerical data above shows a small difference in students within LT high school and junior college, while Bachelor's almost double in complicity while high schoolers more then quadruple junior collages. Now right now there is going to be some statistical difference but it will be explained into two parts. First  will be running a one way anova to hopefully get our hands on some statistical data.
+
 
 ## Inferential Results
 
